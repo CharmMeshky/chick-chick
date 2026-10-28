@@ -130,7 +130,7 @@ export default function Footer() {
       </footer>
       <div className="w-full h-10 bg-neutral-950 flex-row-center">
         <span className="text-gray-400 text-md vazir">
-          \\ Developer : Amirhosein Saeedi //
+          \\ Developer : Amirhosein Babaei //
         </span>
       </div>
     </>
